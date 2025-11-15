@@ -10,6 +10,12 @@
   },
   "plugins": [
     {
+      "name": "doc-router",
+      "description": "Document Router Skill",
+      "source": "./doc-router",
+      "version": "1.0.0"
+    },
+    {
       "name": "sig-agent",
       "description": "SIG Agent Plugin",
       "source": "./sig-agent",
